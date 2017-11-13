@@ -1,0 +1,17 @@
+{
+    "name": "MPQ: Multidimensional Personality Questionnaire - Control (vs impulsiveness) Scale Survey",
+    "template":"survey",
+    "exp_id": "mpq_control_survey",
+    "cognitive_atlas_task_id": "trm_55a6aa62c54f8",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":3,
+    "reference": ["http://www.sciencedirect.com/science/article/pii/S0191886900000647"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
